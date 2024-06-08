@@ -1,4 +1,4 @@
-![MasterHead](<img src="https://drive.google.com/file/d/1CosnL9umZ_l66RjVMBjuKbOzNJC28bmy/view?usp=sharing">)
+![MasterHead](https://github.com/Ritik0824/Ritik0824/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ritik Yadav</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ritikyadav4020@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H8P1xv5EDVc0Wk8UBbdKOmso7UgjVv-3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZAg5vqHL6IKjOS1A_bWOH6P9kvytn9q7/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
