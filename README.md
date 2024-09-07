@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ritikyadav4020@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_27ckkxPB05RMf2vhiplkDh-Hw5AKn69/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1_27ckkxPB05RMf2vhiplkDh-Hw5AKn69/view?usp=sharing](https://drive.google.com/file/d/1iKP5EGqEw3sckjK77PTJxK1RbBLj07E1/view?usp=sharing))
 
 - ⚡ Fun fact **I think I am funny**
 
